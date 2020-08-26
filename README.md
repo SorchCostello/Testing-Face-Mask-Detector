@@ -2,8 +2,8 @@
 Testing Adrian Rosebrock's Face-mask Detector
 https://www.pyimagesearch.com/2020/05/04/covid-19-face-mask-detector-with-opencv-keras-tensorflow-and-deep-learning/
 
-*## Face Mask Detector
-As part of my summer internship, I was asked to make a people counter code; the inspiration for the code was https://www.pyimagesearch.com/2018/08/13/opencv-people-counter/ .
+## Face Mask Detector
+*As part of my summer internship, I was asked to make a people counter code; the inspiration for the code was https://www.pyimagesearch.com/2018/08/13/opencv-people-counter/ .
 I decided after completing my internship I wanted to look more into Adrian Rosebrock's codes & blog post. Due to current events I was very intrigued by his “COVID-19: Face Mask Detector with OpenCV, Keras/TensorFlow, and Deep Learning”.*
 
 ## Recent Updates
