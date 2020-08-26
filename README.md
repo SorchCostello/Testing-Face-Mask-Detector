@@ -8,7 +8,7 @@ I decided after completing my internship I wanted to look more into Adrian Roseb
 
 ## Recent Updates:
 * Almost all necessary documents have been uploaded; I have chosen to exclude the dataset folder and the train_mask_detector.py file, as the dataset folder was too large. 
-* These file is available through Adrian Rosebrock's blog post.
+* These files are available through Adrian Rosebrock's blog post.
 
 ## How To Use:
 * to run: python detect_mask_video.py
