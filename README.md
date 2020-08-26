@@ -19,14 +19,14 @@ I decided after completing my internship I wanted to look more into Adrian Roseb
 * face_detector => Contains the MobileNet SSD model used (prototxt and caffe files)
 
 ## Setup
-1. Install the required libraries (OpenCV, NumPy, SciPy, dlib, imutils) by searching online or using pip install
-2. Download this git repo as a zip
-3. Extract the file to the Documents directory
+     1. Install the required libraries (OpenCV, NumPy, SciPy, dlib, imutils) by searching online or using pip install
+     2. Download this git repo as a zip
+     3. Extract the file to the Documents directory
 
 ## Running The Code
-1. Change directory
-~ cd C:\Users\<USERNAME>\Documents\face-mask-detector
-2. Run the code
-~ python detect_mask_video.py
-or eg:
-~ python detect_mask_image.py -i examples/example_01.png
+     4. Change directory
+          ~ cd C:\Users\<USERNAME>\Documents\face-mask-detector
+     5. Run the code
+          ~ python detect_mask_video.py
+          or eg:
+          ~ python detect_mask_image.py -i examples/example_01.png
